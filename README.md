@@ -33,7 +33,7 @@
 1. **Clone or Download this Repository** 
 
 ```bash
-git clone https://github.com/username/redditlens.git
+git clone https://github.com/abzokhattab/RedditLens.git
 cd redditlens
 ```
  
