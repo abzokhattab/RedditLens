@@ -137,7 +137,7 @@ def format_markdown_output(
 
 
 def main():
-    st.title("Reddit Insight Hub")
+    st.title("Reddit Lens")
     st.write("Analyze Reddit posts on any topic using AI insights, prioritizing high community engagement.")
 
     # Sidebar for configurations
