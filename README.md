@@ -137,7 +137,7 @@ After a few moments, a local URL (e.g., `http://localhost:8501`) will appear in 
 
 ## POC 
 
-![Demo Video](./example/urban_gardening.mov)
+![Demo Video](./example/urban_gardening.mp4)
 
 
 
