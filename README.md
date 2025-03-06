@@ -135,6 +135,11 @@ After a few moments, a local URL (e.g., `http://localhost:8501`) will appear in 
 ---
 
 
+## POC 
+
+![Demo Video](./example/urban_gardening.mov)
+
+
 ## License 
 This project is released under the [MIT License]() . Feel free to use or modify the code according to the terms of the license.
 
